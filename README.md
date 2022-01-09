@@ -1,0 +1,1 @@
+# DJANGO-Mail-Custom-Templates
